@@ -1,5 +1,4 @@
-# Labbaik Virtual Tour API
-Penuhi kerinduan Anda menyempurnakan panggilan dan belajar lebih dalam lagi tentang peradaban Islam dengan pengalaman Virtual di Labbaik, seolah-olah Anda berada di sana!
+# Express API Starter
 
 ### Dev Setup
 - Nodejs - Express
@@ -25,7 +24,7 @@ db.createUser(
         roles : [
             {
                 role : "readWrite",
-                db : "labbaikvt"            
+                db : "db"            
             }        
         ]    
     }
